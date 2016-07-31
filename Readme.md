@@ -1,1 +1,1 @@
-Boilerplate template
+A Timer App by ReactJS
